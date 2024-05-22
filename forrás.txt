@@ -1,0 +1,11 @@
+Tartalom:
+https://hu.wikipedia.org/wiki/Git
+https://hu.wikipedia.org/wiki/GitHub
+COPILOT --> A szöveges tartalom kibővítésére
+https://www.reddit.com/r/programming/comments/18d9d7g/every_git_command_i_use_cheatsheet/?rdt=43431&onetap_auto=true&one_tap=true
+
+
+KÉPEK:
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/100px-Git-logo.svg.png
+https://th.bing.com/th/id/OIP.ZkKHU6I-irFOBQBKrLMUQgHaEK?w=324&h=182&c=7&r=0&o=5&pid=1.7
+https://th.bing.com/th/id/OIP.05b5BHN45Y0ljD4nIDxD8AHaEK?w=301&h=180&c=7&r=0&o=5&pid=1.7
